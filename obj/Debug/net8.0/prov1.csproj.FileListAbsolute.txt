@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\prov1\bin\Debug\net8.0\prov1.exe
+C:\Users\Admin\Documents\GitHub\prov1\bin\Debug\net8.0\prov1.deps.json
+C:\Users\Admin\Documents\GitHub\prov1\bin\Debug\net8.0\prov1.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\prov1\bin\Debug\net8.0\prov1.dll
+C:\Users\Admin\Documents\GitHub\prov1\bin\Debug\net8.0\prov1.pdb
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.dll
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\refint\prov1.dll
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.pdb
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\ref\prov1.dll
