@@ -29,3 +29,17 @@ Console.WriteLine(radie*radie*Math.PI);
 
 radieförcirkel(5);
 */
+
+
+/*
+//uppgift 4
+void namnmat(string namn, string mat){
+Console.WriteLine($"mitt namn är {namn} och jag gillar {mat}");
+}
+namnmat("Albin" , "burek");
+*/
+
+Console.WriteLine("din ålder");
+string input = Console.ReadLine();
+int ålder = int.Parse(input);
+Console.WriteLine($"du är {ålder} år gammal");

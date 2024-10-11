@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\refint\prov1.dll
 C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.pdb
 C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.genruntimeconfig.cache
 C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\ref\prov1.dll
+C:\Users\Admin\Documents\GitHub\prov1\obj\Debug\net8.0\prov1.sourcelink.json
